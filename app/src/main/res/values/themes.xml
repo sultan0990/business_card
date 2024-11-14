@@ -1,0 +1,6 @@
+<resources>
+    <!-- Define the colors used in your theme -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorScheme">#03DAC5</color> <!-- Example color scheme -->
+</resources>
